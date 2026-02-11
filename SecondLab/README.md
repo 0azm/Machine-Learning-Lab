@@ -17,4 +17,4 @@
 •	Methodology: Data was loaded and inspected using the Pandas library in a Jupyter Notebook environment.  
 # Part 4: Machine Learning Methodology Diagram  
 •	Included below is the visual workflow of the project, from data selection to model evaluation.  
-•	![Methodology Diagram](./SecondLab/MethodologyDiagram.png)  
+![Methodology Diagram](./SecondLab/MethodologyDiagram.png)
