@@ -1,4 +1,4 @@
-# Lab11: Credit Card Customer Segmentation (K-Means Clustering)
+# Lab 11: Credit Card Customer Segmentation (K-Means Clustering)
 
 **Name:** Azam Ahmed Alburiki  
 **ID:** 2240005783
